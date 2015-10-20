@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 #makeCacheMatrix() takes an matrix as its only argument and returns a "CacheMatrix"
 #object. If the argument x is not specified, an empty matrix is used as a default value.
 #A "CacheMAtrix"object is a named list of four functions:
